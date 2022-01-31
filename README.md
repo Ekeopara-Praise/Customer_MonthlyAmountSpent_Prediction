@@ -1,2 +1,2 @@
-# Customer_MonthlyAmountSpent_Prediction
+# Customer Monthly Amount Spent Prediction
 Prediction of Monthly Amount Spent by a Customer
